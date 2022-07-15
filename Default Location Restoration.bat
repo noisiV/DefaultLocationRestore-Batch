@@ -7,6 +7,7 @@ echo ===============================================================
 echo ==           DEFAULT LOCATION RESTORATION TOOL               ==
 echo ==        RESTORES DEFAULT LOCATIONS FOR USER DATA.          ==
 echo == ENDS EXPLORER, RESTORES DEFAULT LOCATION, STARTS EXPLORER ==
+echo ==               CREATED BY TYLER C. @0xTylerr               ==
 echo ===============================================================
 echo TO BEGIN, SELECT WHICH LOCATION TO RESTORE
 echo 1. Desktop
